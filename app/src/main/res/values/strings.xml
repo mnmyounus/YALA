@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YALA</string>
+    <string name="app_tagline">Your App Lock and Analyzer</string>
+    <string name="developer_credit">Developed by MNM YOUNUS</string>
+    <string name="protection_channel">Protection</string>
+    <string name="protection_active">App protection is active</string>
+    <string name="accessibility_description">YALA uses this service only to notice which app is in the foreground so it can show your lock screen. Nothing is recorded or sent anywhere.</string>
+    <string name="device_admin_description">Prevents an intruder from uninstalling or force-stopping YALA.</string>
+</resources>

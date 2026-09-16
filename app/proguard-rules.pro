@@ -1,0 +1,4 @@
+-keep class com.mnmyounus.yala.data.service.** { *; }
+-keep class * extends android.app.admin.DeviceAdminReceiver { *; }
+-keep class * extends android.accessibilityservice.AccessibilityService { *; }
+-dontwarn kotlinx.coroutines.**
