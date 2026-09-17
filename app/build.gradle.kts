@@ -58,8 +58,6 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
 
     // Android TV / D-pad
-    implementation("androidx.tv:tv-foundation:1.0.0-alpha11")
-    implementation("androidx.tv:tv-material:1.0.0-alpha11")
     implementation("androidx.leanback:leanback:1.0.0")
 
     implementation("androidx.navigation:navigation-compose:2.7.7")
